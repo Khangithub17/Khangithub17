@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shahbazkhansk025@gmail.com**
 
-- 📄 Know about my experiences [codewithkhan.tiiny.site](codewithkhan.tiiny.site)
+- 📄 Know about my experiences [https://codewithkhan.tiiny.site/](https://codewithkhan.tiiny.site/)
 
 - ⚡ Fun fact **I'm Funny**
 
