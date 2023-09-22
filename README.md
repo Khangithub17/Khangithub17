@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Angular**
 
-- 👨‍💻 All of my projects are available at [https://shahbazkhan25.netlify.app/](https://shahbazkhan25.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://codewithkhan.netlify.app/)
 
 - 📫 How to reach me **shahbazkhansk025@gmail.com**
 
