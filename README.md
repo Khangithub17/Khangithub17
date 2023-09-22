@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-children-s-software-programming-png-image_5401261.jpg"
+<img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-6353865-5264782.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangithub17&label=Profile%20views&color=0e75b6&style=flat" alt="khangithub17" /> </p>
 
